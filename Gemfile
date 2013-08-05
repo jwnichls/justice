@@ -29,6 +29,7 @@ gem 'will_paginate'
 gem 'bitly'
 gem 'jquery-validation-rails'
 gem 'twitter'
+gem 'ruby-aws'
 
 group :development do
 	gem 'annotate'
