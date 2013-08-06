@@ -9,9 +9,11 @@ GIT
 
 GIT
   remote: git://github.com/peterkinnaird/ruby-aws.git
-  revision: 82d264155942d08b51a98eea68f790f86b2c192b
+  revision: 3fe27f7fd12d6a8e80aedf13a8fa7c5fe67b6aab
   specs:
     ruby-aws (1.6.1)
+      highline
+      nokogiri
 
 GEM
   remote: https://rubygems.org/
