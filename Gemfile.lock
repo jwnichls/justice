@@ -255,7 +255,6 @@ DEPENDENCIES
   omniauth-twitter
   pg
   protected_attributes
-  rack
   rails (= 4.0.0)
   rails_12factor
   rspec-rails
