@@ -28,7 +28,8 @@ gem 'will_paginate'
 gem 'bitly'
 gem 'jquery-validation-rails'
 gem 'twitter'
-gem 'ruby-aws'
+gem 'ruby-aws', github: 'peterkinnaird/ruby-aws'
+gem "highline", "~> 1.6.19"
 
 group :development do
 	gem 'annotate'
