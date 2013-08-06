@@ -8,7 +8,6 @@ gem 'rails', '4.0.0'
 gem 'protected_attributes'
 gem 'rails_12factor', group: :production
 gem 'heroku'
-
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
