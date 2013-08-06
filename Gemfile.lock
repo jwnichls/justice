@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: git://github.com/peterkinnaird/ruby-aws.git
-  revision: e1ba5bbcad1ca9459bfa43d7d954702d06576dce
+  revision: c183d151e48cdcca8a224c792bc87fdeea7c3efe
   specs:
     ruby-aws (1.6.1)
       highline
